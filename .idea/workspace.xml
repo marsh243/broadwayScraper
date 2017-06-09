@@ -17,8 +17,8 @@
       <file leaf-file-name="broadwayScraper.py" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/broadwayScraper.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="203">
-              <caret line="27" column="41" lean-forward="false" selection-start-line="27" selection-start-column="41" selection-end-line="27" selection-end-column="41" />
+            <state relative-caret-position="183">
+              <caret line="22" column="129" lean-forward="false" selection-start-line="22" selection-start-column="129" selection-end-line="22" selection-end-column="129" />
               <folding>
                 <element signature="e#0#29#0" expanded="true" />
               </folding>
@@ -228,8 +228,8 @@
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/broadwayScraper.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="203">
-          <caret line="27" column="41" lean-forward="false" selection-start-line="27" selection-start-column="41" selection-end-line="27" selection-end-column="41" />
+        <state relative-caret-position="183">
+          <caret line="22" column="129" lean-forward="false" selection-start-line="22" selection-start-column="129" selection-end-line="22" selection-end-column="129" />
           <folding>
             <element signature="e#0#29#0" expanded="true" />
           </folding>
